@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/26257419/README.1.md)
 # SQA Middleware — Simulated Quantum Annealing Optimizer for Autonomous AI Agents
 
 **Ryzen-optimized, double-buffered Trotter decomposition middleware** that turns any LLM/agent action vector into a provably better decision using quantum tunneling simulation on commodity hardware.
