@@ -1,0 +1,21 @@
+NOTICE
+======
+
+SQA Middleware — Simulated Quantum Annealing Optimizer for Autonomous AI Agents
+Copyright (c) 2026 derekwden-droid
+
+This software implements methods that are the subject of a pending USPTO
+provisional patent application.
+
+Any party who copies, forks, or incorporates this software or the methods
+described herein is on constructive notice of the pending patent rights.
+Commercial use without a license from the rights holder is prohibited pending
+patent issuance.
+
+For licensing inquiries, open an Issue on this repository.
+
+-------------------------------------------------------------------------------
+
+This software is also distributed under the MIT License (see LICENSE).
+The MIT License governs use of the source code as software. It does not
+constitute a patent license for the methods implemented by the software.
